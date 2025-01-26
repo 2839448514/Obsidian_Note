@@ -1,0 +1,324 @@
+{
+  "main": {
+    "id": "da743d2e1bb94f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a53a1d796bb4314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77bc38c446bb00b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/树与二叉树.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "树与二叉树"
+            }
+          },
+          {
+            "id": "130ea39d5a4ea6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/栈与队列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "栈与队列"
+            }
+          },
+          {
+            "id": "ec4d28504da824c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/树与二叉树.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "树与二叉树"
+            }
+          },
+          {
+            "id": "8274c3d66a7f63fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/树与二叉树.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "树与二叉树"
+            }
+          },
+          {
+            "id": "54c20c59deac753c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/计算机系统简介.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机系统简介"
+            }
+          },
+          {
+            "id": "1c1b1d39a0a6ff77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/计算机系统概论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机系统概论"
+            }
+          },
+          {
+            "id": "d68df1cbf9511554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/计算机系统概论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机系统概论"
+            }
+          },
+          {
+            "id": "759a9ed2d13d88c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/计算机系统概论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机系统概论"
+            }
+          },
+          {
+            "id": "950f0949df46cd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/计算机系统概论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机系统概论"
+            }
+          },
+          {
+            "id": "d3911439dc8f05b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/计算机系统概论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机系统概论"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871afe542ae5af74",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f74af54a1e7104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8649718b122093",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "accab836a436b462",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4cfbbd3fd0fbdbb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b77ecf397ef43e22",
+    "type": "split",
+    "children": [
+      {
+        "id": "4de2d822937cfee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8689bf241859b448",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构/树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "树 的反向链接列表"
+            }
+          },
+          {
+            "id": "350bfbca70f79c74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构/树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "树 的出链列表"
+            }
+          },
+          {
+            "id": "c598c5a36abd874e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4377432b150f4a04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机组成原理/计算机系统概论.md"
+              },
+              "icon": "lucide-list",
+              "title": "计算机系统概论 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "d3911439dc8f05b8",
+  "lastOpenFiles": [
+    "计算机组成原理/photo/细化的计算机组成框架.md",
+    "计算机组成原理/计算机系统概论.md",
+    "计算机组成原理/photo/现代计算机硬件框图.md",
+    "计算机组成原理/photo/以存储器为中心的计算机.md",
+    "计算机组成原理/photo/计算机体系结构.md",
+    "计算机组成原理/photo/冯诺依曼计算机结构.md",
+    "数据结构/树与二叉树.md",
+    "计算机组成原理/photo/未命名.canvas",
+    "计算机组成原理/photo",
+    "未命名",
+    "数据结构/排序.md",
+    "数据结构/图.md",
+    "数据结构/链表.md",
+    "数据结构/字符串.md",
+    "数据结构/栈与队列.md",
+    "数据结构/photo/2.png",
+    "数据结构/查找.md",
+    "数据结构/photo/1.png",
+    "数据结构/photo",
+    "数据结构/深度优先生成树和广度优先生成树.md",
+    "数据结构/photo/100.png",
+    "Vue模板.md",
+    "数据结构/photo/Pasted image 20241215195522.png",
+    "数据结构/photo",
+    "gf.md",
+    "视频.md",
+    "().md",
+    "数据结构/未命名.canvas"
+  ]
+}

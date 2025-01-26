@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "7c835f6db4d7f1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49ac8329c68dfcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6d2504ae07b419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "最小生成树.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最小生成树"
+            }
+          },
+          {
+            "id": "6cbf6f2e4fce43a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "树状数组.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "树状数组"
+            }
+          },
+          {
+            "id": "590db70a3213a6f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "离散化"
+            }
+          },
+          {
+            "id": "5b739ab29f40bc87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高精度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高精度"
+            }
+          },
+          {
+            "id": "f1577fcff3d6651b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ST表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ST表"
+            }
+          },
+          {
+            "id": "77e6ecbaa5d7eb0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "搜索.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ca9fccf1c9bde2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "二叉树遍历.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二叉树遍历"
+            }
+          },
+          {
+            "id": "70afb532564819bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "优化因子计数算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "优化因子计数算法"
+            }
+          },
+          {
+            "id": "b02fc390da7ffcf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "埃拉托斯特尼筛法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "埃拉托斯特尼筛法"
+            }
+          },
+          {
+            "id": "e2208a930c18ba44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算几何.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算几何"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31155be246f7392f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b704326ba1197581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bd8d82c619879a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fcd69abcb3909971",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e8c7fc3e7b924622",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5afb388192654f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "07ca5a22291bc58f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbda5c080ce5a36b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "进制计算.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "进制计算 的反向链接列表"
+            }
+          },
+          {
+            "id": "ee2c7b2927a1afa9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "图论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "图论 的出链列表"
+            }
+          },
+          {
+            "id": "9a358b43dcf7a658",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1326cd66343308b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算几何.md"
+              },
+              "icon": "lucide-list",
+              "title": "计算几何 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e2208a930c18ba44",
+  "lastOpenFiles": [
+    "埃拉托斯特尼筛法.md",
+    "计算几何.md",
+    "优化因子计数算法.md",
+    "二叉树遍历.md",
+    "搜索.md",
+    "ST表.md",
+    "高精度.md",
+    "动态规划.md",
+    "快速幂.md",
+    "进制计算.md",
+    "单调栈.md",
+    "最小生成树.md",
+    "离散化.md",
+    "前缀和.md",
+    "树状数组.md",
+    "图论.md",
+    "排列组合.md",
+    "栈.md",
+    "photo",
+    "photo/Pasted image 20241221002204.png",
+    "洛谷题解/P1032字串变换.md",
+    "洛谷题解/P1649.md",
+    "洛谷题解",
+    "堆.md"
+  ]
+}

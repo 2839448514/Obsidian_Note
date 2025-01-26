@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f2a1a6ae0c6fd95a","type":"file","file":"工作空间/Scripts/BasicRigidBodyPush.cs.md","x":-880,"y":-280,"width":400,"height":400},
+		{"id":"c545a29cc305ea51","type":"text","text":"控制角色可以推动的物体","x":-805,"y":-420,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"0cb828f79b90cb53","fromNode":"c545a29cc305ea51","fromSide":"bottom","toNode":"f2a1a6ae0c6fd95a","toSide":"top"}
+	]
+}

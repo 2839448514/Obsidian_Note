@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "405a919cebd0a9e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f6c3c151904391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f732602c13f443d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/`Buffer` 是一个用于处理二进制数据流.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "`Buffer` 是一个用于处理二进制数据流"
+            }
+          },
+          {
+            "id": "dec07a4bf77da4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodejs/中间件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中间件"
+            }
+          },
+          {
+            "id": "7b30167cafea4d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodejs/Servlet 是 Java Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Servlet 是 Java Web"
+            }
+          },
+          {
+            "id": "cec4fb0a150a4408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodejs/令牌技术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "令牌技术"
+            }
+          },
+          {
+            "id": "e33ccdbe5daa599c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/在 Ubuntu 上运行 Spring Boot 应用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "在 Ubuntu 上运行 Spring Boot 应用"
+            }
+          },
+          {
+            "id": "971add542aa1a8e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/flex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flex"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51a90040e6faa4a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6db4f656336ac60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4ef03790e21a69d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3fb8332d709332d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9c606b2d5f8e3b2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1cfe6b489d3321da",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a1b5ad578a935b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2b6e5ba7fc6a99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nginx/Ubuntu 上使用 Nginx.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Ubuntu 上使用 Nginx 的反向链接列表"
+            }
+          },
+          {
+            "id": "00834873375e1815",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/按钮点击事件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "按钮点击事件 的出链列表"
+            }
+          },
+          {
+            "id": "42f81c98d9d1939b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f85768c3b8317e41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSS/flex.md"
+              },
+              "icon": "lucide-list",
+              "title": "flex 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "971add542aa1a8e8",
+  "lastOpenFiles": [
+    "JavaScript/在 Ubuntu 上运行 Spring Boot 应用.md",
+    "CSS/flex.md",
+    "JavaScript/JavaScript 使用 DOM 改变 HTML 页面总结.md",
+    "nodejs/令牌技术.md",
+    "nodejs/Servlet 是 Java Web.md",
+    "nodejs/Servlet 是一种用于扩展 Web 服务器.md",
+    "nodejs/中间件.md",
+    "JavaScript/`Buffer` 是一个用于处理二进制数据流.md",
+    "Vue/Vue基本语法指令.md",
+    "JavaScript/显示对话框.md",
+    "JavaScript/JavaScript 中的输入输出.md",
+    "nginx/Ubuntu 上使用 Nginx.md",
+    "JavaScript/preview/显示对话框.html",
+    "JavaScript/preview/toc_conf.js",
+    "JavaScript/preview/toc/style/makedownpad.css",
+    "JavaScript/preview/toc/style/GitHub2.css",
+    "JavaScript/preview/toc/style/github2-d731afd4f624c99a4b19ad69f3083cd6d02b81d5.css",
+    "JavaScript/preview/toc/style/GitHub.css",
+    "JavaScript/preview/toc/style/github-bf51422f4bb36427d391e4b75a1daa083c2d840e.css",
+    "JavaScript/preview/toc/style/Clearness.css",
+    "JavaScript/preview/toc/style/Clearness Dark.css",
+    "JavaScript/preview/toc/style",
+    "JavaScript/preview/toc/css/zTreeStyle/img/zTreeStandard.png",
+    "JavaScript/preview/toc/css/zTreeStyle/img/zTreeStandard.gif",
+    "JavaScript/preview/toc/css/zTreeStyle/img/loading.gif",
+    "JavaScript/preview/toc/css/zTreeStyle/img/line_conn.gif",
+    "JavaScript/preview/toc/css/zTreeStyle/img/diy/9.png",
+    "JavaScript/preview/toc/css/zTreeStyle/img/diy/8.png",
+    "JavaScript/preview/toc/css/zTreeStyle/img/diy/7.png",
+    "JavaScript/preview/toc/css/zTreeStyle/img/diy/6.png",
+    "JavaScript/preview/toc/css/zTreeStyle/img/diy/5.png",
+    "JavaScript/preview/toc/css/zTreeStyle/img/diy/4.png",
+    "nodejs/CommonJS 详解.md",
+    "nodejs/Node.js的http 模块总结.md",
+    "nodejs/Axios 常见内容详细总结.md",
+    "JavaScript/JavaScript 使用 DOM 改变 CSS 样式总结.md",
+    "nodejs/Node.js 的 path`模块.md",
+    "nodejs/express模块.md",
+    "JavaScript/Promise 总结与详解.md",
+    "nodejs/fs 模块(文件系统操作).md",
+    "nodejs/初识nodejs.md",
+    "Vue/Vue模板.md",
+    "JavaScript/JavaScript 中常见的事件.md",
+    "JavaScript/DOM（Document Object Model）操作详解.md",
+    "JavaScript/向控制台输出.md",
+    "JavaScript/页面前进后退移动.md"
+  ]
+}
